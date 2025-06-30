@@ -38,12 +38,12 @@ The application is easy to use: simply select the languages you want to translat
     ```
 
 ### Program Flow:
-<a href="#"><img src="https://github.com/SamirPaulb/real-time-voice-translator/assets/77569653/73dd62d6-798d-4129-aff3-16d6d932a817" alt="Block Diagram of Voice Translator"></a>
+
 
 
 ### Install Windows/Linux/Mac Application
 
-I am using <a href="https://github.com/marcelotduarte/cx_Freeze/tree/main">cx_Freeze</a> to build executable file of this app. The build settings can be changed by modifying the <a href="https://github.com/SamirPaulb/real-time-voice-translator/blob/main/setup.py">setup.py</a> file.
+
 
 ##### Build installer containing all the files:
 - Windows: ```python setup.py bdist_msi```
@@ -52,5 +52,5 @@ I am using <a href="https://github.com/marcelotduarte/cx_Freeze/tree/main">cx_Fr
 
 
 ### GUI 
-<a href="#"><img src="https://github.com/SamirPaulb/real-time-voice-translator/assets/77569653/f96a4115-a88f-4096-9a00-954b8527d872" alt="App GUI"></a>
+
 
